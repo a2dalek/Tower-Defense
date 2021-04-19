@@ -1,0 +1,857 @@
+# depslib dependency file v1.0
+1612695900 source:c:\users\bangphuonglaptop\desktop\tower defense\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_utils.h"
+
+1612695889 c:\users\bangphuonglaptop\desktop\tower defense\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1614961171 source:c:\users\bangphuonglaptop\desktop\tower defense\main.cpp
+	"Game.h"
+	<set>
+
+1614928272 source:c:\users\bangphuonglaptop\desktop\tower defense\gallery.cpp
+	"Gallery.h"
+	"SDL_utils.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1612689029 c:\users\bangphuonglaptop\desktop\tower defense\gallery.h
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+
+1614600973 source:c:\users\bangphuonglaptop\desktop\tower defense\map.cpp
+	"Map.h"
+	<time.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1614622433 c:\users\bangphuonglaptop\desktop\tower defense\map.h
+	<vector>
+
+1615047132 source:c:\users\bangphuonglaptop\desktop\tower defense\enemy.cpp
+	"Enemy.h"
+
+1615047132 c:\users\bangphuonglaptop\desktop\tower defense\enemy.h
+
+1614913790 source:c:\users\bangphuonglaptop\desktop\tower defense\tower.cpp
+	"Tower.h"
+
+1614690808 c:\users\bangphuonglaptop\desktop\tower defense\tower.h
+	"Enemy.h"
+
+1615047790 source:c:\users\bangphuonglaptop\desktop\tower defense\bullet.cpp
+	"Bullet.h"
+	<math.h>
+
+1614687556 c:\users\bangphuonglaptop\desktop\tower defense\bullet.h
+	"Enemy.h"
+
+1615047633 source:c:\users\bangphuonglaptop\desktop\tower defense\shop.cpp
+	"Shop.h"
+	<string>
+	<SDL_image.h>
+
+1614915258 c:\users\bangphuonglaptop\desktop\tower defense\shop.h
+	<SDL.h>
+
+1615045115 c:\users\bangphuonglaptop\desktop\tower defense\game.h
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<chrono>
+	<SDL_ttf.h>
+	"SDL_utils.h"
+	"Map.h"
+	"Gallery.h"
+	"Enemy.h"
+	"Bullet.h"
+	"Tower.h"
+	"Shop.h"
+	<string>
+
+1615047372 source:c:\users\bangphuonglaptop\desktop\tower defense\game.cpp
+	"Game.h"
+
+1615047790 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\bullet.cpp
+	"Bullet.h"
+	<math.h>
+
+1614687556 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\bullet.h
+	"Enemy.h"
+
+1615047132 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\enemy.h
+
+1615047132 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\enemy.cpp
+	"Enemy.h"
+
+1614928272 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\gallery.cpp
+	"Gallery.h"
+	"SDL_utils.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1612689029 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\gallery.h
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+
+1612695889 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1618813738 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\game.cpp
+	"Game.h"
+
+1615045115 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\game.h
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<chrono>
+	<SDL_ttf.h>
+	"SDL_utils.h"
+	"Map.h"
+	"Gallery.h"
+	"Enemy.h"
+	"Bullet.h"
+	"Tower.h"
+	"Shop.h"
+	<string>
+
+1614622433 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\map.h
+	<vector>
+
+1614690808 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\tower.h
+	"Enemy.h"
+
+1614915258 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\shop.h
+	<SDL.h>
+
+1618804239 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\main.cpp
+	"Game.h"
+	<set>
+
+1618809736 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\map.cpp
+	"Map.h"
+	<time.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1618671937 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_utils.h"
+
+1615047633 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\shop.cpp
+	"Shop.h"
+	<string>
+	<SDL_image.h>
+
+1618813932 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\tower.cpp
+	"Tower.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\close_code.h
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2_image-devel-2.0.5-mingw (1)\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322281 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2_ttf-devel-2.0.15-mingw\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\checkkeys.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<emscripten/emscripten.h>
+	"SDL.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\controllermap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SDL.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\loopwave.c
+	"SDL_config.h"
+	<stdio.h>
+	<stdlib.h>
+	<emscripten/emscripten.h>
+	"SDL.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\loopwavequeue.c
+	<stdio.h>
+	<stdlib.h>
+	<emscripten/emscripten.h>
+	"SDL.h"
+	<signal.h>
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testatomic.c
+	<stdio.h>
+	"SDL.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testaudiocapture.c
+	"SDL.h"
+	<stdlib.h>
+	<emscripten/emscripten.h>
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testaudiohotplug.c
+	"SDL_config.h"
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<emscripten/emscripten.h>
+	"SDL.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testaudioinfo.c
+	<stdio.h>
+	"SDL.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"SDL.h"
+	"SDL_test.h"
+	"testautomation_suites.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test.h
+	"SDL.h"
+	"SDL_test_assert.h"
+	"SDL_test_common.h"
+	"SDL_test_compare.h"
+	"SDL_test_crc32.h"
+	"SDL_test_font.h"
+	"SDL_test_fuzzer.h"
+	"SDL_test_harness.h"
+	"SDL_test_images.h"
+	"SDL_test_log.h"
+	"SDL_test_md5.h"
+	"SDL_test_memory.h"
+	"SDL_test_random.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_assert.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_common.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_compare.h
+	"SDL.h"
+	"SDL_test_images.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_images.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_crc32.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_font.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_fuzzer.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_harness.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_log.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_md5.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_memory.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_test_random.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572892 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_suites.h
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_audio.c
+	<stdio.h>
+	<string.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_clipboard.c
+	<stdio.h>
+	<string.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_events.c
+	<stdio.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_hints.c
+	<stdio.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_keyboard.c
+	<stdio.h>
+	<limits.h>
+	"SDL_config.h"
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_main.c
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_mouse.c
+	<stdio.h>
+	<limits.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_pixels.c
+	<stdio.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_platform.c
+	<stdio.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_rect.c
+	<stdio.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_render.c
+	<stdio.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_rwops.c
+	<stdio.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_sdltest.c
+	<limits.h>
+	<stdint.h>
+	<stdio.h>
+	<float.h>
+	<ctype.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_stdlib.c
+	<stdio.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_surface.c
+	<stdio.h>
+	<unistd.h>
+	<sys/stat.h>
+	"SDL.h"
+	"SDL_test.h"
+	<unistd.h>
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_syswm.c
+	<stdio.h>
+	"SDL.h"
+	"SDL_syswm.h"
+	"SDL_test.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_syswm.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	<windows.h>
+	<Inspectable.h>
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<directfb.h>
+	<UIKit/UIKit.h>
+	"SDL_egl.h"
+	<os2.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572791 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\i686-w64-mingw32\include\sdl2\sdl_egl.h
+	<EGL/egl.h>
+	<EGL/eglext.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+	<windows.h>
+	<Unknwn.h>
+	<mir_toolkit/mir_client_library.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_timer.c
+	<stdio.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testautomation_video.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"SDL.h"
+	"SDL_test.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testbounds.c
+	"SDL.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testcustomcursor.c
+	<stdlib.h>
+	<stdio.h>
+	<emscripten/emscripten.h>
+	"SDL_test_common.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testdisplayinfo.c
+	"SDL.h"
+	<stdio.h>
+	<stdlib.h>
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testdraw2.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<emscripten/emscripten.h>
+	"SDL_test_common.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testdrawchessboard.c
+	<stdlib.h>
+	<stdio.h>
+	<emscripten/emscripten.h>
+	"SDL.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testdropfile.c
+	<stdlib.h>
+	<stdio.h>
+	"SDL_test_common.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testerror.c
+	<stdio.h>
+	<stdlib.h>
+	"SDL.h"
+
+1608572892 source:c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2-devel-2.0.14-mingw\sdl2-2.0.14\test\testfile.c
+	<stdlib.h>
+	<unistd.h>
+	"SDL.h"
+	<stdio.h>
+
+1547322290 c:\users\bangphuonglaptop\desktop\tower defense\tower defense\sdl2\sdl2_ttf-devel-2.0.15-mingw\sdl2_ttf-2.0.15\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
