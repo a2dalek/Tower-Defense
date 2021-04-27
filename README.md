@@ -2,6 +2,7 @@
 
 ## Introduction
 Một project làm game **Tower Defense** cơ bản.
+Xem demo tại: https://drive.google.com/file/d/1zuRl14MOLJUDyIsPsUPzBojT1DjKS7H4/view?usp=sharing
 
 ## Technologies
 Project sử dụng IDE và các thư viện sau:
